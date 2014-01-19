@@ -3,42 +3,24 @@ jhPrimeminer
 
 jhPrimeminer is a optimized pool miner for primecoin.
 
-This is Ray De Bourbon's 3.3 build, merged with deschlers linux version.
+jhPrimeminer is a optimized pool miner for primecoin.
 
-Requirements
-Openssl and libgmp.
+sudo tsocks apt-get update
 
+sudo tsocks apt-get install yasm -y git make g++ build-essential libminiupnpc-dev
 
+sudo tsocks apt-get install -y libdb++-dev libgmp-dev libssl-dev dos2unix
 
-Build instructions:
+sudo tsocks apt-get install -y libboost1.48-all libboost-chrono1.48-dev
 
-CentOS:
-
-yum groupinstall "Development Tools"
-
-yum install openssl openssl-devel openssh-clients gmp gmp-devel gmp-static git
-
-git clone https://github.com/tandyuk/jhPrimeminer.git
+tsocks git clone https://github.com/conicek/jhPrimeminer
 
 cd jhPrimeminer
 
 make
 
+tsocks ./jhprimeminer -o http://mining.ypool.net:10034 -u -p
 
-Ubuntu:
+donate
 
-apt-get install build-essential libssl-dev openssl git libgmp libgmp-dev
-
-git clone https://github.com/tandyuk/jhPrimeminer.git
-
-cd jhPrimeminer
-
-make
-
-
-
-If you found this helpful PLEASE support my work.
-
-XPM: AYwmNUt6tjZJ1nPPUxNiLCgy1D591RoFn4
-
-BTC: 1P6YrvFkwYGcw9sEFVQt32Cn7JJKx4pFG2
+XPM: AT6DeCT1pD1BW4ofo2msmk1toHF7m5RzMy DOGE : DEm6SRgfpvS93rF17JSA7m4mkCYAgk4Ahs
