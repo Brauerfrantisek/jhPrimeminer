@@ -1,26 +1,13 @@
 jhPrimeminer
 ============
 
-jhPrimeminer is a optimized pool miner for primecoin.
+HOW MAKE XPM WITH VITRUAL SERVER ??
+ 
+ SSH
 
-jhPrimeminer is a optimized pool miner for primecoin.
+SEND DONATE 3XPM IM YOU HELP 
+donate 3xpm
 
-sudo tsocks apt-get update
-
-sudo tsocks apt-get install yasm -y git make g++ build-essential libminiupnpc-dev
-
-sudo tsocks apt-get install -y libdb++-dev libgmp-dev libssl-dev dos2unix
-
-sudo tsocks apt-get install -y libboost1.48-all libboost-chrono1.48-dev
-
-tsocks git clone https://github.com/Brauerfrantisek/jhPrimeminer
-
-cd jhPrimeminer
-
-make
-
-tsocks ./jhprimeminer -o http://mining.ypool.net:10034 -u -p
-
-donate
-
-XPM: AT6DeCT1pD1BW4ofo2msmk1toHF7m5RzMy DOGE : DEm6SRgfpvS93rF17JSA7m4mkCYAgk4Ahs
+XPM: AT6DeCT1pD1BW4ofo2msmk1toHF7m5RzMy 
+     AakNX49p7Ddh2bkfYi95pSTNeSK3JbuyKp
+     ARTVsECZMSNKhpJrCi2REAaW135dBuPZ1t 
