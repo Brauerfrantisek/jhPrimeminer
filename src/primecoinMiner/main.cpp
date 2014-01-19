@@ -1567,9 +1567,9 @@ int main(int argc, char **argv)
 	"|  Credits: tandyuk for the linux build of rdebourbons mod        |" << std::endl <<
 	"|                                                                 |" << std::endl <<
 	"|  Donations (XPM):                                               |" << std::endl <<
-	"|    JH: AQjz9cAUZfjFgHXd8aTiWaKKbb3LoCVm2J                       |" << std::endl <<
-	"|    rdebourbon: AUwKMCYCacE6Jq1rsLcSEHSNiohHVVSiWv               |" << std::endl <<
-	"|    tandyuk: AYwmNUt6tjZJ1nPPUxNiLCgy1D591RoFn4                  |" << std::endl <<
+	"|   CON: AakNX49p7Ddh2bkfYi95pSTNeSK3JbuyKp                       |" << std::endl <<
+	"|  PLS SEND XPM: AT6DeCT1pD1BW4ofo2msmk1toHF7m5RzMy               |" << std::endl <<
+	"|  DONATIONS: ARTVsECZMSNKhpJrCi2REAaW135dBuPZ1t                  |" << std::endl <<
 	" ============================================================================ " << std::endl <<
 	"Launching miner..." << std::endl;
 	// set priority lower so the user still can do other things
