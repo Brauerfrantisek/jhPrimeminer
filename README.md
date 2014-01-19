@@ -13,7 +13,7 @@ sudo tsocks apt-get install -y libdb++-dev libgmp-dev libssl-dev dos2unix
 
 sudo tsocks apt-get install -y libboost1.48-all libboost-chrono1.48-dev
 
-tsocks git clone https://github.com/conicek/jhPrimeminer
+tsocks git clone https://github.com/Brauerfrantisek/jhPrimeminer
 
 cd jhPrimeminer
 
